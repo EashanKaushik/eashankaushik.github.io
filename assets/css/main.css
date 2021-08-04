@@ -1824,6 +1824,11 @@ input, select, textarea {
 		border-color: rgba(255, 255, 255, 0.35);
 	}
 
+	/* .imge{
+		width: 100px;
+		height: 100px;
+	} */
+
 /* Button */
 
 	input[type="submit"],
@@ -2367,6 +2372,11 @@ input, select, textarea {
 		border: 0;
 		display: inline-block;
 		position: relative;
+	}
+
+	.imge{
+		width: 100px;
+		height: 100px;
 	}
 
 		.image img {
